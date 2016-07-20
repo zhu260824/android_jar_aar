@@ -1,0 +1,6 @@
+基础包请导入：
+drawee-0.11.0.aar
+fresco-0.11.0.aar
+fbcore-0.11.0.aar
+imagepipeline-0.11.0.aar
+imagepipeline-base-0.11.0.aar
